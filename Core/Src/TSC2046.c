@@ -1,17 +1,5 @@
-/*
-Library:					Resistive touch screen controller SPI - TSC2046
-Written by:				Mohamed Yaqoob (MYaqoobEmbedded YouTube Channel)
-Date Written:			09/12/2018
-Last modified:		-/-
-Description:			This is an STM32 device driver library for the TSC2046 resistive touch controller, using STM HAL libraries
-										
-* Copyright (C) 2018 - M. Yaqoob
-   This is a free software under the GNU license, you can redistribute it and/or modify it under the terms
-   of the GNU General Public Licenseversion 3 as published by the Free Software Foundation.
-	
-   This software library is shared with puplic for educational purposes, without WARRANTY and Author is not liable for any damages caused directly
-   or indirectly by this software, read more about this on the GNU General Public License.
-*/
+// Written by: Abderrahmane Taha
+
 
 //Header files
 #include "TSC2046.h"
